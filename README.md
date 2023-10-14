@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Anjiurine
+## 👋 Hi, I’m Anjiurine
 
 You are my 
 ![](https://moe-counter.anjiurine.top/get/@suswhw?theme=rule34)
