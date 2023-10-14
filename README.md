@@ -5,4 +5,4 @@ You are my
 visitor!
 
 ![](https://github-readme-stats.anjiurine.top/api?username=Anjiurine&show_icons=true&count_private=true)
-![](https://github-readme-stats.anjiurine.top/api/top-langs/?username=Anjiurine)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.anjiurine.top/api/top-langs/?username=Anjiurine)
