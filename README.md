@@ -38,5 +38,5 @@ visitor!
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.yumetsuki.moe/api?username=Hoshino-Yumetsuki&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=Hoshino-Yumetsuki&show_icons=true&count_private=true&theme=transparent)
 
