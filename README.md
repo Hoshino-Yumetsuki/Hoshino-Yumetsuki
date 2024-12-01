@@ -18,6 +18,6 @@ visitor!
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=Hoshino-Yumetsuki&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=Hoshino-Yumetsuki&show_icons=true&count_private=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.yumetsuki.moe/api/top-langs/?username=Hoshino-Yumetsuki)
+![Top Languages](https://github-readme-stats.yumetsuki.moe/api/top-langs/?username=Hoshino-Yumetsuki&theme=transparent)
