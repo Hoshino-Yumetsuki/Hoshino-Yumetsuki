@@ -24,4 +24,4 @@ visitor!
 
 ### 🏆 GitRoll Badge
 
-<a href="https://gitroll.io/profile/uO4Ehsh2iQrdDKLmsjnB92WCFlj52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uO4Ehsh2iQrdDKLmsjnB92WCFlj52?theme=light" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uO4Ehsh2iQrdDKLmsjnB92WCFlj52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uO4Ehsh2iQrdDKLmsjnB92WCFlj52?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
