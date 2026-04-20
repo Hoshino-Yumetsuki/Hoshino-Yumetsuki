@@ -16,12 +16,6 @@ visitor!
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=Hoshino-Yumetsuki&show_icons=true&count_private=true&theme=transparent)
-
----
-
 ### 🏆 GitRoll Badge
 
 <a href="https://gitroll.io/profile/uO4Ehsh2iQrdDKLmsjnB92WCFlj52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uO4Ehsh2iQrdDKLmsjnB92WCFlj52?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
